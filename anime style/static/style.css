@@ -715,7 +715,7 @@ a:focus {
 	-webkit-clip:rect(0,900px,0,0);
 	clip:rect(0,900px,0,0);
 	color:#4E6087;
-	content:"404 Page Not Found";
+	content:"电波无法到达哦";
 	overflow:hidden;
 	position:absolute;
 	top:0;
