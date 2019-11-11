@@ -4,6 +4,7 @@
 }
 /*=============第一页=============*/	
 .name{   
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #FF512F;
     font-weight: 700;
@@ -15,6 +16,7 @@
     vertical-align: inherit;
 }
 .name2{   
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #FF512F;
     font-weight: 700;
